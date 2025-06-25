@@ -18,7 +18,7 @@ B.	Tables:
 	-- Categories: Stores product categories.
 
 C.	Insert Sample Data:
-	-- Populate each table with sample data.
+	-- Populate each table with sample data. 
 
 D. Write Queries:
 	-- Retrieve data (e.g., customer orders, popular products).
